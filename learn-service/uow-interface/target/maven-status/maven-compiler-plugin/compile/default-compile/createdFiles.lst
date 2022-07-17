@@ -1,0 +1,3 @@
+com\uow\service\OrderService.class
+com\uow\service\UserService.class
+com\uow\bean\UserAddress.class
