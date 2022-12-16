@@ -10,4 +10,5 @@ import java.util.List;
 public interface CervaluationMapper {
     @Select(value = {"select * from Cevaluation"})
     List<Cervaluation> obtainEvaluation();
+
 }
